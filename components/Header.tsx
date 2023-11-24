@@ -25,7 +25,7 @@ const Header: React.FC = () => {
       </div>
 
       {/* Login Button */}
-      <button className="bg-purple-900 hover:bg-aqua-100 text-white hover:text-purple-900 font-bold py-2 px-4 rounded">
+      <button className="bg-purple-900 text-purple-100 font-light py-2 px-4 rounded">
         Login
       </button>
     </header>
