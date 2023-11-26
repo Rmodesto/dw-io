@@ -5,7 +5,7 @@ const Hero: React.FC = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-purple-200">
       <div className="text-center">
         <h1 className="text-6xl font-bold text-purple-900 mb-4">
-          Connect with <span className="text-aqua-100">dreams</span> deeper
+          What are <span className="text-aqua-100">dreams</span> telling us?
         </h1>
         <p className="text-xl text-black-800 mb-8">
           We help you interpret your dreams and their significance
