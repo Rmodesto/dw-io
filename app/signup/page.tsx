@@ -1,5 +1,5 @@
-// components/SignUp.tsx
-'use client'
+// signup page
+'use client';
 
 import React from 'react';
 
@@ -31,7 +31,9 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
           placeholder="Your email"
           className="input input-bordered"
         />
-        <button type="submit" className="btn btn-primary">Sign up with email</button>
+        <button type="submit" className="btn btn-primary">
+          Sign up with email
+        </button>
       </form>
       <button onClick={onGoogleSignUp} className="btn btn-outline">
         Continue with Google

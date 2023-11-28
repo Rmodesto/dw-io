@@ -7,17 +7,32 @@ const Header: React.FC = () => {
       {/* Logo and Nav links container */}
       <div className="flex items-center space-x-12">
         {/* Logo */}
-        <p className="font-bold text-2xl tracking-widest font-Alegreya" id="logo">
+        <p
+          className="font-bold text-2xl tracking-widest font-Alegreya"
+          id="logo"
+        >
           <span className="text-purple-900">Dream</span>
           <span className="text-aqua-100">Whisper</span>
         </p>
-        
+
         {/* Navigation Links */}
         <nav>
           <ul className="flex text-black-800 tracking-widest font-light space-x-4">
-            <li><a href="#" className="hover:text-aqua-100">Features</a></li>
-            <li><a href="#" className="hover:text-aqua-100">Pricing</a></li>
-            <li><a href="#" className="hover:text-aqua-100">Blog</a></li>
+            <li>
+              <a href="#" className="hover:text-aqua-100">
+                Features
+              </a>
+            </li>
+            <li>
+              <a href="#" className="hover:text-aqua-100">
+                Pricing
+              </a>
+            </li>
+            <li>
+              <a href="#" className="hover:text-aqua-100">
+                Blog
+              </a>
+            </li>
           </ul>
         </nav>
       </div>
@@ -29,7 +44,7 @@ const Header: React.FC = () => {
         </button>
       </Link>
     </header>
-  );  
+  );
 };
 
 export default Header;

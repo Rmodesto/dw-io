@@ -13,17 +13,16 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
- 
-        "plugins": [
+
+    "plugins": [
       {
         "name": "next"
       }
     ],
-    "baseUrl": ".", 
+    "baseUrl": ".",
     "paths": {
-   
       "@/components/*": ["components/*"],
-      
+
       // Add other directories as needed
       "@/*": ["./*"]
     }
