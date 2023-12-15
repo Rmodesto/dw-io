@@ -1,4 +1,4 @@
-import { Roboto, Alegreya } from 'next/font/google';
+import { Alegreya, Roboto } from 'next/font/google';
 
 export const roboto = Roboto({
   weight: '400',

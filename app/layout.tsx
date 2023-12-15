@@ -1,3 +1,4 @@
+import { roboto } from '@/app/ui/fonts';
 import '@/app/ui/global.css';
 
 export default function RootLayout({
@@ -13,7 +14,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="antialiased">{children}</body>
+      <body className={`${roboto.className} antialiased`}>{children}</body>
     </html>
   );
 }
