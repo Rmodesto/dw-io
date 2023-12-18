@@ -1,7 +1,10 @@
 // UserAuthForm
 import { useLoginForm } from '@/components/hooks/useLoginForm'; // Adjust the import path as needed
+
+import Link from 'next/link';
 import React from 'react';
 import BackButton from './BackButton';
+import GoogleIcon from './Google';
 
 interface UserAuthFormProps {
   onLogin: (email: string, password: string) => void;
@@ -52,14 +55,17 @@ const UserAuthForm: React.FC<UserAuthFormProps> = ({ onLogin }) => {
             <div className="flex-grow h-0.5 w-3 bg-gray-400"></div>
           </div>
           <button
-            className="border border-aqua-200 w-full mt-2 hover:bg-blue-700 text-white font-regular py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+            className="flex items-center justify-center border border-aqua-200 w-full mt-2 hover:bg-blue-700 text-white font-regular py-2 px-4 rounded focus:outline-none focus:shadow-outline"
             type="submit"
           >
+            <GoogleIcon />
             Google
           </button>
-          <p className="text-center text-xs mt-2 underline-offset-4 underline-aqua">
-            Don't have an account? Sign Up.
-          </p>
+          <Link href="/signup">
+            <p className="text-center text-xs mt-2 underline-offset-4 underline-aqua">
+              Don't have an account? Sign Up.
+            </p>
+          </Link>
         </form>
         <p className="text-center text-xs">
           &copy;2023 Dream Whisper. All rights reserved.

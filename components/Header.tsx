@@ -1,7 +1,11 @@
-import React from 'react';
+'use client';
+import { useUser } from '@clerk/nextjs';
 import Link from 'next/link';
+import React from 'react';
 
 const Header: React.FC = () => {
+  const { user, isLoaded } = useUser();
+
   return (
     <header className="flex justify-between items-center w-full px-6 py-4 bg-purple-100">
       {/* Logo and Nav links container */}
@@ -36,13 +40,13 @@ const Header: React.FC = () => {
           </ul>
         </nav>
       </div>
-
-      {/* Login Button */}
-      <Link href="/login" passHref>
-        <button className="bg-purple-900 text-white font-light py-2 px-4 rounded">
-          Login
-        </button>
-      </Link>
+      {isLoaded && user && (
+        <Link href="/login" passHref>
+          <button className="bg-purple-900 text-white font-light py-2 px-4 rounded">
+            Login
+          </button>
+        </Link>
+      )}
     </header>
   );
 };
