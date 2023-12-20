@@ -1,10 +1,15 @@
-import Image from 'next/image';
+import { auth } from '@clerk/nextjs';
 
-import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import { redirect } from 'next/navigation';
 
 export default function Home() {
+  const { userId } = auth();
+  if (userId) {
+    redirect('/');
+  }
   return (
     <div>
       <Header />

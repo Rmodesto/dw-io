@@ -1,0 +1,18 @@
+{
+  "id": "mig_cm0toc8ehjuqgg7897f0",
+  "parentID": "mig_cm0to1om1i8eher5ov4g",
+  "checksum": "1:daaa0d39619549ef2c74aa0ebfb25de5c285bfdda8d1bbda405775a480f9cda1",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Lname",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "null"
+        },
+        "table": "users"
+      }
+    }
+  ]
+}
