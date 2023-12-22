@@ -25,11 +25,11 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
   return (
     <div className="flex min-h-screen">
       {/* Left side of the screen - Blank */}
-      <div className="w-1/2 bg-gray-100"></div>
+      <div className="w-1/2 bg-purple-300"></div>
 
       {/* Right side of the screen - Form */}
-      <div className="w-1/2 flex items-center justify-center">
-        <div className="p-6 space-y-6 bg-white rounded-lg shadow-md">
+      <div className="w-1/2 flex items-center justify-center bg-purple-100">
+        <div className="p-6 space-y-6 bg-purple-100">
           <div className="text-center">
             <h3 className="text-center text-2xl font-bold font-Alegreya">
               <span className="text-purple-900">D</span>
@@ -64,7 +64,7 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
           </div>
           <button
             onClick={onGoogleSignUp}
-            className="flex items-center justify-center w-full px-4 py-2 border rounded-md hover:bg-gray-100"
+            className="flex items-center justify-center w-full border-aqua-200 px-4 py-2 border rounded-md hover:bg-gray-100"
           >
             <GoogleIcon />
             Google
