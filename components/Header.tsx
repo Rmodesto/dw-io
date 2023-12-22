@@ -1,12 +1,9 @@
 'use client';
-import { UserButton, useUser } from '@clerk/nextjs';
 
 import Link from 'next/link';
 import React from 'react';
 
 const Header: React.FC = () => {
-  const { user, isLoaded } = useUser();
-
   return (
     <header className="flex justify-between items-center w-full px-6 py-4 bg-purple-200">
       {/* Logo and Nav links container */}
@@ -42,16 +39,11 @@ const Header: React.FC = () => {
         </nav>
       </div>
 
-      {isLoaded && user && (
-        <>
-          <Link href="/login" passHref className="flex">
-            <button className="bg-purple-900 text-white font-light py-2 px-4 rounded">
-              Login
-            </button>
-            <UserButton afterSignOutUrl="/" />
-          </Link>
-        </>
-      )}
+      <Link href="/login" className="flex">
+        <button className="bg-purple-900 text-white font-light py-2 px-4 rounded">
+          Login
+        </button>
+      </Link>
     </header>
   );
 };
