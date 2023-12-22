@@ -73,7 +73,7 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
             <p className="text-black-500">
               By clicking continue, you agree to our{' '}
             </p>
-            <Link href="#" className="underline-aqua">
+            <Link href="#" className="underline-aqua-200">
               Terms of Service
             </Link>{' '}
             and{' '}
