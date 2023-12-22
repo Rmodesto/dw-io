@@ -35,7 +35,7 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
               <span className="text-purple-900">D</span>
               <span className="text-aqua-200">W</span>
             </h3>
-            <h2 className="text-2xl font-bold">Create an account</h2>
+            <h2 className="text-2xl m-0 font-bold">Create an account</h2>
             <p className="text-sm text-gray-600">
               Enter your email below to create your account
             </p>
@@ -57,7 +57,7 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
           </form>
           <div className="flex items-center justify-between">
             <div className="flex-grow h-0.5 w-3 bg-gray-400"></div>
-            <span className="flex-none uppercase px-2 text-sm text-gray-400">
+            <span className="flex-none uppercase px-2 text-sm text-black-500">
               or continue with
             </span>
             <div className="flex-grow h-0.5 w-3 bg-gray-400"></div>
@@ -69,15 +69,15 @@ const SignUp: React.FC<SignUpProps> = ({ onEmailSignUp, onGoogleSignUp }) => {
             <GoogleIcon />
             Google
           </button>
-          <div className="text-md text-center pt-0 text-gray-500">
-            <p className="text-gray-500">
+          <div className="text-sm text-black-500 text-center pt-0">
+            <p className="text-black-500">
               By clicking continue, you agree to our{' '}
             </p>
-            <Link href="#" className="text-blue-600 underline-aqua">
+            <Link href="#" className="underline-aqua">
               Terms of Service
             </Link>{' '}
             and{' '}
-            <Link href="/Privacy" className="text-blue-600 underline-aqua">
+            <Link href="/Privacy" className="underline-aqua">
               Privacy Policy
             </Link>
             .
