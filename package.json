@@ -23,6 +23,7 @@
     "@xata.io/cli": "^0.15.3",
     "@xata.io/client": "^0.28.2",
     "bcryptjs": "^2.4.3",
+    "clsx": "^2.0.0",
     "lucide-react": "^0.293.0",
     "next": "14.0.3",
     "next-auth": "^5.0.0-beta.4",
