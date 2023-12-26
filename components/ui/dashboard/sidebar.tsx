@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 const topLinks = [
-  { name: 'Interpret', href: '/' },
+  { name: 'Interpret', href: '/DashboardContent' },
   { name: 'Dreams', href: '/dreams' },
 ];
 
