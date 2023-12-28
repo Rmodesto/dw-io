@@ -1,6 +1,9 @@
+
+
 type Props = {};
 
 const header = (props: Props) => {
+  
   return (
     <div>
       <nav className="flex justify-between items-center w-full bg-purple-100  border-b border-aqua-200 px-6 py-4">

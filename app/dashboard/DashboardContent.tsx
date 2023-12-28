@@ -49,7 +49,7 @@ const DashboardContent: React.FC = () => {
   };
 
   return (
-    <div className="w-4/5 p-4 bg-purple-100 flex flex-col h-screen">
+    <div className="w-4/5 p-4 bg-purple-100 rounded-lg flex flex-col h-screen">
       {/* Render the list of dreams as chat messages */}
       <div className="overflow-auto mb-4">
         {dreamsList.map((userDream, index) => (
@@ -60,14 +60,14 @@ const DashboardContent: React.FC = () => {
       </div>
       <form onSubmit={handleSubmit} className="mt-auto relative">
         <textarea
-          className="w-full p-2 border rounded-md"
+          className="w-full p-2 border rounded-md border-gray-300 focus:outline-none focus:ring-2 focus:ring-aqua-400 focus:border-transparent"
           placeholder="Type your dream here..."
           value={dream}
           onChange={(e) => setDream(e.target.value)}
         />
         <button
           type="submit"
-          className="absolute bottom-0 right-0 mb-2 mr-2 bg-blue-500 text-white p-1 px-2 rounded hover:bg-blue-600 text-sm"
+          className="absolute bottom-0 right-0 mb-2 mr-2 bg-aqua-100 text-white p-1 px-2 rounded hover:bg-blue-600 text-sm"
         >
           Submit
         </button>

@@ -1,3 +1,9 @@
+import DashboardContent from './DashboardContent';
+
 export default function Page() {
-  return <p>Dashboard Page</p>;
+  return (
+    <div>
+      <DashboardContent />
+    </div>
+  );
 }

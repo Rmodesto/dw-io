@@ -51,6 +51,8 @@ const config: Config = {
         aqua: {
           100: '#6DD4C9',
           200: '#4CC4B8',
+          300: '#CEF2EE',
+          400: '#EEFBF9',
         },
       },
       fontFamily: {
