@@ -1,50 +1,16 @@
 'use client';
-// components/DashboardContent.tsx
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 
 const DashboardContent: React.FC = () => {
   const [dream, setDream] = useState<string>('');
   const [dreamsList, setDreamsList] = useState<string[]>([]);
 
-  useEffect(() => {
-    // Fetch dreams when the component mounts
-    const fetchDreams = async () => {
-      try {
-        const response = await fetch('/api/dreams');
-        if (response.ok) {
-          const dreams: string[] = await response.json();
-          setDreamsList(dreams);
-        }
-      } catch (error) {
-        console.error('Error fetching dreams:', error);
-      }
-    };
-    fetchDreams();
-  }, []);
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault(); // Prevents the default form submission behavior
 
-  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-
-    try {
-      const response = await fetch('/api/dreams', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ dream }),
-      });
-
-      if (response.headers.get('content-type')?.includes('application/json')) {
-        const data = await response.json();
-        // handle your JSON data
-        setDreamsList((prev) => [...prev, dream]);
-        setDream('');
-      } else {
-        const text = await response.text();
-        throw new Error('Failed to parse JSON: ' + text);
-      }
-    } catch (error) {
-      console.error('Error submitting the dream:', error);
+    if (dream.trim()) {
+      setDreamsList([...dreamsList, dream]); // Adds the new dream to the dreams list
+      setDream(''); // Resets the dream input field
     }
   };
 
