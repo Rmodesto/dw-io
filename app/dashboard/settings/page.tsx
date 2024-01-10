@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>Settings Page</p>;
+  return <p className="font-bold">Settings Page</p>;
 }
