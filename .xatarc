@@ -1,6 +1,0 @@
-{
-  "databaseURL": "https://Dw-io-8olk37.us-east-1.xata.sh/db/dw-io",
-  "codegen": {
-    "output": "src/xata.ts"
-  }
-}
