@@ -1,14 +1,8 @@
-'use client';
-
-import {
-  Auth,
-  GoogleAuthProvider,
-  signInWithEmailAndPassword,
-  signInWithPopup,
-} from 'firebase/auth';
+import { Auth } from 'firebase/auth';
 import React from 'react';
+import UserAuthForm from '../../components/UserAuthForm';
 
-interface LoginProps {
+interface LoginPageProps {
   auth: Auth;
   uiConfig: {
     signInSuccessUrl: string;
@@ -16,48 +10,13 @@ interface LoginProps {
   };
 }
 
-const Login: React.FC<LoginProps> = ({ auth, uiConfig }) => {
-  const [email, setEmail] = React.useState('');
-  const [password, setPassword] = React.useState('');
-
-  const handleGoogleSignIn = async () => {
-    try {
-      const provider = new GoogleAuthProvider();
-      await signInWithPopup(auth, provider);
-      // Handle successful sign-in (e.g., redirect to dashboard)
-    } catch (error) {
-      // Handle errors
-    }
-  };
-
-  const handleEmailSignIn = async (event: React.FormEvent) => {
-    event.preventDefault();
-    try {
-      await signInWithEmailAndPassword(auth, email, password);
-      // Handle successful sign-in
-    } catch (error) {
-      // Handle errors
-    }
-  };
-
+// Correctly use LoginPageProps with React.FC
+const LoginPage: React.FC<LoginPageProps> = ({ auth, uiConfig }) => {
   return (
-    <div>
-      <button onClick={handleGoogleSignIn}>Sign in with Google</button>
-      <form onSubmit={handleEmailSignIn}>
-        <input
-          type="email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-        />
-        <input
-          type="password"
-          value={password}
-          onChange={(e) => setPassword(e.target.value)}
-        />
-        <button type="submit">Sign in with Email</button>
-      </form>
+    <div className="min-h-screen bg-gray-100 flex flex-col justify-center">
+      <UserAuthForm />
     </div>
   );
 };
 
-export default Login;
+export default LoginPage;
