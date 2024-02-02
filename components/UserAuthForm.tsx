@@ -1,48 +1,79 @@
 'use client';
+import { useRouter } from 'next/navigation';
+import { useContext, useEffect } from 'react';
+import { AuthContext } from '../app/utils/authStateListener';
 import {
-  getAuth,
   GoogleAuthProvider,
+  createUserWithEmailAndPassword,
+  getAuth,
   signInWithEmailAndPassword,
   signInWithPopup,
-} from 'firebase/auth';
-import { useRouter } from 'next/navigation';
-import React, { useEffect, useState } from 'react';
-import { auth } from '../firebase/clientApp';
+} from '../firebase/clientApp';
 
-const UserAuthForm: React.FC = () => {
-  const [email, setEmail] = React.useState('');
-  const [password, setPassword] = React.useState('');
+const UserAuthForm = () => {
   const router = useRouter();
-  const [isComponentMounted, setIsComponentMounted] = useState(false);
+  const {
+    user,
+    setUser,
+    email,
+    setEmail,
+    password,
+    setPassword,
+    setEmailErr,
+    setPasswordErr,
+  } = useContext(AuthContext);
 
   useEffect(() => {
-    // Set the flag to true when the component mounts
-    setIsComponentMounted(true);
-  }, []);
-
-  const handleGoogleSignIn = async () => {
-    try {
-      await signInWithPopup(auth, new GoogleAuthProvider());
-      // Only use the router if the component is mounted
-      if (isComponentMounted) {
-        router.push('/dashboard');
-      }
-    } catch (error) {
-      console.error('Error during Google sign-in:', error);
+    if (user) {
+      router.push('/dashboard'); // Redirect to dashboard if user is logged in
     }
+  }, [user, router]);
+
+  // Handle Sign Up
+  const handleSignUp = () => {
+    console.log('Attempting to sign up...');
+    createUserWithEmailAndPassword(getAuth(), email, password)
+      .then((userCredential) => {
+        setUser(userCredential.user);
+        setEmailErr('');
+        setPasswordErr('');
+      })
+      .catch((error) => {
+        if (error instanceof Error) {
+          setEmailErr(error.message);
+        }
+      });
   };
 
-  const handleEmailSignIn = async (event: React.FormEvent<HTMLFormElement>) => {
+  // Handle Sign In
+  const handleSignIn = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    try {
-      await signInWithEmailAndPassword(getAuth(), email, password);
-      // Only use the router if the component is mounted
-      if (isComponentMounted) {
-        router.push('/dashboard');
-      }
-    } catch (error) {
-      console.error('Error during email sign-in:', error);
-    }
+    console.log('Attempting to sign in...');
+    signInWithEmailAndPassword(getAuth(), email, password)
+      .then((userCredential) => {
+        setUser(userCredential.user);
+        setEmailErr('');
+        setPasswordErr('');
+      })
+      .catch((error) => {
+        if (error instanceof Error) {
+          setPasswordErr(error.message);
+        }
+      });
+  };
+
+  // Handle Google Sign In
+  const handleGoogleSignIn = () => {
+    const auth = getAuth();
+    const provider = new GoogleAuthProvider();
+    signInWithPopup(auth, provider)
+      .then((result) => {
+        const user = result.user;
+        setUser(user); // Update user state with the authenticated user
+      })
+      .catch((error) => {
+        setEmailErr(error.message); // Update error state with the error message
+      });
   };
 
   return (
@@ -56,7 +87,7 @@ const UserAuthForm: React.FC = () => {
             Enter your email to sign in to your account
           </p>
         </div>
-        <form className="mt-8 space-y-6" onSubmit={handleEmailSignIn}>
+        <form className="mt-8 space-y-6" onSubmit={handleSignIn}>
           <input type="hidden" name="remember" defaultValue="true" />
           <div className="rounded-md shadow-sm -space-y-px">
             <div>
