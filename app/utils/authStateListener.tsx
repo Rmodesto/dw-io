@@ -13,6 +13,8 @@ interface AuthContextType {
   setEmailErr: (error: string) => void;
   passwordErr: string;
   setPasswordErr: (error: string) => void;
+  resetEmailErr: string;
+  setResetEmailErr: (error: string) => void;
 }
 
 const AuthContext = createContext<AuthContextType>({
@@ -26,6 +28,8 @@ const AuthContext = createContext<AuthContextType>({
   setEmailErr: () => {},
   passwordErr: '',
   setPasswordErr: () => {},
+  resetEmailErr: '',
+  setResetEmailErr: () => {},
 });
 
 interface AuthProviderProps {
@@ -38,7 +42,7 @@ const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
   const [password, setPassword] = useState('');
   const [emailErr, setEmailErr] = useState('');
   const [passwordErr, setPasswordErr] = useState('');
-
+  const [resetEmailErr, setResetEmailErr] = useState('');
   return (
     <AuthContext.Provider
       value={{
@@ -52,6 +56,8 @@ const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         setEmailErr,
         passwordErr,
         setPasswordErr,
+        resetEmailErr,
+        setResetEmailErr,
       }}
     >
       {children}

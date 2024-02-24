@@ -1,0 +1,601 @@
+Jungian theory of dreaming and contemporary
+dream research –ﬁndings from the research
+project ‘Structural Dream Analysis ’
+Christian Roesler, Freiburg, Germany
+Abstract: The research method ‘Structural Dream Analysis ’(SDA) is described which
+allows for systematic and objective analysis of the meaning of dreams produced by
+patients in Jungian psychotherapies. The method focuses especially on the relationship
+between the dream ego and other ﬁgures in the dream and the extent of activity of the
+dream ego. Five major dream patterns were identi ﬁed which accounted for the
+majority of the dreams. The clients ’dream series were dominated by one or two
+repetitive patterns which were closely connected to the psychological problems of thedreamers. Additionally, typical changes in the dream series ’patterns could be identi ﬁed
+which corresponded with therapeutic change. These ﬁndings support Jung ’s theory of
+dreams as providing a holistic image of the dreamer ’s psyche, including unconscious
+aspects. The implications for different psychoanalytic theories of dreaming and dream
+interpretation are discussed as well as implications for the continuity hypothesis.
+Keywords: dreams in psychotherapy, empirical dream research, psychoanalytic dream
+theories, psychotherapy process, typical dream patterns
+To provide empirical support for analytical psychology ’s main concepts is
+difﬁcult in some ﬁelds, namely archetype theory, but regarding Jung ’s theory of
+dreaming there is a surprisingly large amount of support coming from empiricaldream research. I have been investigating the connection between dreams andthe course of psychotherapy in Jungian analysis, and I have found that there isstrong empirical support for our Jungian perspective on the role of dreams.
+We know that Freud ’s and Jung ’s perspectives differ in many aspects, and so
+they do regarding dreaming and dream interpretation. Whereas Freud ( 1900 )
+was convinced that dreaming serves the function of protecting sleep bydistorting the unconscious meaning of the dream, Jung saw the dream as atotal picture of the current situation of the psyche including unconscious
+aspects; later he added that the dream compensates the attitude of ego
+consciousness. So in a certain sense Freud sees the dream as covering its
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited.©2020 The Authors. Journal of Analytical Psychology published by John Wiley & Sons Ltd on behalf of The
+Society of Analytical Psychology
+0021-8774/2020/6501/44
+Published by Wiley Publishing, 9600 Garsington Road, Oxford OX 42DQ, UK and 350Main Street, Malden, MA 02148 , USA.
+DOI: 10.1111/1468-5922.12566Journal of Analytical Psychology ,2020 ,65,1,44–62
+
+meaning, whereas Jung believes that the dream uncovers the unconscious. A
+speciﬁc contribution which Jung made to the theory of dreaming is that, in
+dreams, parts of the personality which are not yet integrated or even beingmanifest through con ﬂict (in the sense of complexes), can appear personi ﬁed.
+From the Jungian point of view the interesting question is: what is the
+relationship of dream ego, as representing the ego complex and the strength
+of consciousness, and these other parts of the psyche? Is the ego in the dreamcapable of dealing with these parts or even integrating them or will theyappear as a threat to the ego?
+Parallel to these psychoanalytic approaches to dreaming, an independent
+tradition of empirical dream research has developed following the discovery
+of rapid eye movement (REM) (Aserinsky & Kleitman 1953 ), which has
+produced a large corpus of empirical ﬁndings on the functions of dreaming
+and its connection to waking life. I will ﬁrst give an overview of these ﬁndings
+of empirical dream research and describe how they support or contradict
+psychoanalytic theories of dreaming, and will then present ﬁndings from my
+own research on dreams in psychotherapy using the method of StructuralDream Analysis.
+Empirical dream research
+Hall and Van de Castle ( 1966 ), who developed a coding system for the content of
+dreams, argued that it is possible to draw a personality pro ﬁle based only on a
+person ’s dreams. Furthermore, there is substantial continuity in the themes in a
+person ’s dreams over a long period of time (Levin 1990 ). And Cartwright
+(1977 ), found that the themes in the dreams change when a person goes
+through psychotherapy. In a study on the dreams of persons with multiplepersonality disorder, Barrett ( 1996 ) was able to demonstrate that the split-off
+parts of their personalities appeared personi ﬁed in their dreams. Greenberg and
+Pearlman ( 1978 ) compared the content of dreams of patients currently in
+psychoanalysis with the protocols of their therapy sessions that coincided withthe time of the dream, and found a strong connection between the themes inthe dreams and their psychotherapy. The dream could be read as a report
+about the current con ﬂictual themes in the waking life of the dreamer. Palombo
+(1982 ) could show that clients reprocess contents from their last analytical
+session in their subsequent dreams and Popp, Luborsky and Crits-Christoph(1990 ) found that both therapy narratives and dreams were structured using
+the same unconscious relationship patterns. Therefore, today ’s most prominent
+theory of dreaming derived from empirical research is the so-called continuityhypothesis, which says that there is a continuity in mental functioning fromwaking life to sleep (for a more detailed discussion see Roesler 2018 a).
+According to Barrett and McNamara ( 2007 ), the results of empirical dream
+research can be summarized in the following way: in the dream, the brain isJungian theory of dreaming and contemporary dream research 45
+
+in a mode where it does not have to process new input but can use larger
+capacities for working on problems and ﬁnding creative solutions. The dream
+especially focuses on experiences in waking life that have emotional meaningfor the dreamer. The dreaming mind can ﬁnd solutions for problems more
+readily compared to waking consciousness because it is able to connect
+different areas and functions of the brain. This supports the view taken by
+Jung ( 1971 ), which sees the psyche as a self-regulating system and the dream
+as a spontaneously produced picture of the current situation of the psyche inthe form of symbols. It seems that empirical dream research, though nothaving any intention of testing Jungian theory, has become quite supportive
+of Jung ’s theory of the dream.
+Jung differentiates between a ‘subjective ’level and an ‘objective ’level to
+dreams. In the ﬁrst perspective, the ﬁgures and elements of the dream are
+interpreted as representing parts or qualities of the dreamer ’s personality
+(especially con ﬂictual parts, i.e. complexes), whereas in the objective
+perspective, they are seen as representing persons or entities existing in reality.In dreams, the unconscious psyche attempts to support ego consciousness andfoster a process of personality integration by pointing to parts of the psychenot yet integrated into the whole of personality, or to indicate unresolved
+conﬂicts. Through dreams, the unconscious, because it contains a more holistic
+knowledge about the development and integration of personality, brings newinformation to consciousness, which can then be integrated, if a consciousunderstanding of the information is possible. This is the aim of dreaminterpretation in psychotherapy. So Jungian dream interpretation focuses on
+the relationship of the dream ego (i.e. the ﬁgure in the dream which experiences
+the dreamer as ‘myself ’, psychoanalytically representing ego consciousness) to
+the other ﬁgures in the dream, which gives an indication, through the imagery,
+of the ability of the ego to cope with emotions, impulses and complexes (being
+represented in this symbolic form in the dream), and the strength of ego
+consciousness. Since the information in dreams comes in the form of symbolsand images, it needs translation to be understood by the conscious ego.
+Contemporary conceptualizations of dreaming based on empirical research
+strongly question the assumptions in Freud ’s classic theory on dreaming and
+dream interpretation: there is no evidence for a process of distortion which
+leads to a difference between manifest and latent meaning and also the dreamis not ‘the keeper of the sleep ’etc. (Fiss 1995 ). In the last decades, there has
+been development in the reconceptualization of psychoanalytic dream theoriesinﬂuenced by insights from empirical dream research. This has led to a
+convergence of contemporary Freudian dream theories, moving towards Jung ’s
+understanding of the dream (e.g. Fosshage 1987 ; Levin 1990 ). As a result of
+this research, some contemporary Freudian dream theories have incorporated anumber of aspects of Jungian dream theory. An example of this convergence
+can be found in the dream theory of Fosshage ( 1987 ,1997 ), which focuses on
+the functions of the dream as a regulator of emotions and integrator of46 Christian Roesler
+
+psychological organization. On the other hand, scholars and researchers from
+the Freudian tradition (even though quoting the empirical evidence speakingagainst Freudian assumptions), still argue for a process of censorship indreaming –which results in a distortion of the latent content –and also for the
+theory of wish ful ﬁlment of dreams. The overall function of dreaming is still
+supposed to be protecting the sleeper from being alarmed by repressed
+impulses (Werner & Langenmeyer 2005 ; Fisher & Greenberg 1977 ,1996 ).
+The research project ‘Structural Dream Analysis ’
+There is also a long tradition of clinical research on dreams in psychoanalysis
+(Fonagy et al. 2012 ). A problem with these approaches is that they often
+include assumptions taken from psychoanalytic theories, e.g. that the dreamserves as a guardian of sleep.
+The usual research approaches investigating the meaning of dream content
+make use of coding systems, e.g. the well-known coding system of Hall andVan de Castle ( 1966 ). Furthermore, in psychoanalytic dream research,
+elaborated coding systems for dream content have been developed and usedin studies investigating the process of psychotherapy (e.g. Moser & von
+Zeppelin, 1991 ). In psychoanalytic research on dreams (see Fonagy et al.
+2012 , for a current overview), there is often the problem that basic
+assumptions about the function of dreams are taken for granted. Forexample, the Moser and von Zeppelin coding system is based on the
+assumption that the function of dreaming is to protect sleep and so
+investigates the changing positions of elements in the dream which‘evidences ’this function. But as it is, this coding system is not able to
+falsify any Freudian assumptions.
+In our study, we attempted to prevent the research method from implicitly
+including any theoretical psychodynamic assumptions about the dream.
+Consequently, Structural Dream Analysis (SDA) was developed as a methodto investigate dreams from a structuralist point of view. The assumption isthat the meaning of a dream consists not so much in it containing certainsymbols or elements but more in the relationship between the elements and in
+the course of action which the dream takes, i.e. its structure. The
+aforementioned coding systems, which count the appearance of certainelements and symbols in dreams, from our point of view, are not able toidentify the meaning of dreams, since meaning is the result of interpretation.
+An example is the famous system built on content analysis of over 50,000
+dreams by Hall and Nordby ( 1972 ). Typical dreams reported in this
+classi ﬁcation involved aggression, predatory animals, ﬂying, falling, being
+persecuted by hostile strangers, landscapes, dreams of misfortune, sex, gettingmarried and having children, taking examinations or undergoing some similar
+ordeals, travelling, swimming or being in the water, watching ﬁres, and beingJungian theory of dreaming and contemporary dream research 47
+
+conﬁned in an underground place. The problem with this kind of classi ﬁcation,
+from my point of view, is that these typical dream motifs describe very differententities, from objects and beings to action patterns and story structures. There isno theoretical model behind such a classi ﬁcation which could connect the
+dream motifs with a meaning for the dreamer. This position has already been
+criticized by Stevens ( 1995 ), who gives the following example: ‘Simple content
+analyses reveal that agonistic dreams are more common among males of allages and hedonic dreams more common among females, but both types ofdreams occur in both sexes. A more signi ﬁcant variable than gender in
+determining the relative incidence of such dreams is the kind of family the
+individual grew up in ’(p.249).
+Structural Dream Analysis is a qualitative, interpretive research method
+that attempts to formalize the process of interpretation of the dream in away that the conclusions are independent of the interpreter. In our study, a
+reliability test found an interpreter agreement for the results coming from
+the same case of k=.70-.82. Structural Dream Analysis sees the dream
+as a narrative. In narratology, a narrative is de ﬁned as a development from
+a starting point, which often is a problem that needs repair or solution.The narrative goes through ups and downs leading to the solution of the
+problem or a valued endpoint to the story (Gülich & Quasthoff 1985 ).
+Similarly, the dream is a short story about how the protagonist, in mostcases the dream ego, processes a problem. Structural Dream Analysis thusmakes use of analytic tools developed in narratology. Two earlier methodsof narrative analysis were incorporated: a) Vladimir Propp ’s(1975 )
+structuralist method of Functional Analysis used to investigate the structure
+of fairy tales. Each fairy-tale is divided into its functional parts (e.g. ‘The
+King is ill and needs healing ’;‘The hero ﬁghts the Dragon ’) and each
+functional part receives an abstract symbol, e.g. a letter or number. As a
+result, each fairy-tale can be written as an abstract formula of symbols and
+then different fairy-tales can be compared regarding their structure. b)Boothe ’s(2002 ) narratological method JAKOB, used in analytical
+psychotherapies for the analysis of patient narratives and their developmentover the course of the psychotherapy. This method focuses on the role the
+narrator takes in the narrative in terms of activity vs. passivity and his/her
+relation to other protagonists in the narrative, as well as on differentepisodic models which describe the course the narrative takes.
+The meaning of symbols in the dreams we investigated was analysed by a
+systematized form of ampli ﬁcation. In psychotherapy, the analyst assumes
+that the series of dreams presented by the analysand follows an inner
+structure of meaning. Structural Dream Analysis aims at identifying this innerstructure of meaning from the series of dreams alone, without referring toadditional information about the dreamer, their psychodynamics or the
+course of psychotherapy. The meaning conveyed by the dream is analysed in
+a systematic series of interpretive steps for which a formalized manual is48 Christian Roesler
+
+available (for more details see Roesler 2018 b). The interpreters, who have no
+information about the dreamer, are given a series of 10to20dreams covering
+the whole course of the psychotherapy and which ideally mark the corepoints and topics of it. The dreams are provided by practising analysts whoalso write a case report about the psychopathology and psychodynamics of
+the patient involved, as well as about the development of core con ﬂicts and
+themes in the course of the therapy. Only when the dream series arecompletely analysed using Structural Dream Analysis are the results comparedto the reports by the therapists.
+Structural Dream Analysis allows for systematic and objective analysis of the
+meaning of dreams produced by patients in psychotherapies. The method
+focuses especially on the relationship between the dream ego and other ﬁgures
+in the dream and the extent of activity of the dream ego. The followingquestions are investigated: Are generalized structures to be found in the
+development of dreams in successful psychotherapies compared to failed
+ones? Are there connections between type of psychopathology, e.g.depression, and the symbols and structures in the dreams?
+Results
+A major ﬁnding is that a high percentage of all dreams from all cases can be
+categorized by a very limited number of structural patterns. The most general
+pattern can be described as: the ego is confronted with a requirement, has tocope with a challenge, has to ful ﬁl a plan or task. This general pattern can be
+differentiated into ﬁve more speci ﬁc patterns regarding the extent of agency of
+the dream ego:
+Whereas in Pattern 1there is no ego present at all, in Patterns 2and3the
+dream ego is present but under pressure from other forces in the dream andthe initiative is not with the ego but with others. The ego is subjected to theiractivity, power and control. In Patterns 4and5the ego has taken over the
+initiative and attempts to follow a personal plan but may be confronted with
+difﬁculties. In Pattern 5this activity focuses on a social relationship.
+Pattern 1: No dream ego present
+In the dream there is no dream ego present, the dreamer just observes a scene asif watching a movie and does not actively take part in the dream. In some cases,the dream ego ﬂies above and looks down on a scene or happenings in the
+dream.
+Pattern 2: The dream ego is threatened
+In dreams of this kind the dream ego is threatened, e.g. attacked or injured, and
+usually tries to escape or protect itself against the threatening ﬁgures. In b) to d)
+below, the dream ego very often reacts with panic and either feels powerless ortries to escape from the threat. Often this results in the dream ego being chasedJungian theory of dreaming and contemporary dream research 49
+
+by the threatening ﬁgures. The dreams in this pattern can be differentiated
+depending on the severity of the threat.
+a) the dream ego is damaged, e.g. severely wounded, or even killed. In some
+cases, the killing has already happened and the dream ego is found as a
+dead body.
+b) the threat to the dream ego comes from a force in nature, e.g. a natural
+disaster, earthquake, ﬁre,ﬂooding, storm etc.
+c) the dream ego is threatened by (dangerous) animals.
+d) the dream ego is threatened by human beings, e.g. criminals, murderers or
+‘evil people ’, or human-like ﬁgures, e.g. ghosts, shadows etc.
+Pattern 3: The dream ego is confronted with a performance requirement
+The dream ego is confronted with a performance requirement, which is set byanother ﬁgure or agency in the dream. The dream ego is confronted with a
+task which it has to ful ﬁl, or is required to ﬁnd something or to give
+something to another person in the dream so that they can ful ﬁl a task etc.
+The most common form of this pattern is the examination dream. Animportant part of this pattern is that the initiative is not with the dream egobut with other ﬁgures confronting the dream ego with a requirement. The
+dream ego is subjected to their control and power.
+a) Examination in a school or university setting.
+b) The dream ego is subject to an inspection by an of ﬁcial person, e.g. a ticket
+inspection on the train where the right of the dream ego is questioned.
+c) the dream ego has the task to ﬁnd something (which was lost before), get
+something, produce something etc.
+Avery typical pattern in these kinds of dreams is that the dream ego does not feel
+capable of performing the task, does not possess the right tools or capabilities, orhas failed to bring these devices, has lost them on the way etc. For example, thedream ego is not prepared for the examination, or arrives too late for it.
+Pattern 4: Mobility dream
+The dream ego is moving towards a speci ﬁed or unclear destination, e.g. travelling
+and making use of different forms of transportation, like a bicycle, car, bus, train,
+airplane, ship etc. An interesting differentiation is the question of whether thesetransportation devices are public or individual. Again, this form of dream canbe differentiated depending on the extent of the dream ego ’s agency, which
+shows in the extent to which the dream ego determines its own movement.
+a) disorientation: the dream ego has no idea where to go, even where it is and
+there are no signs of direction etc.
+b) the dream ego is locked up in a closed space, imprisoned etc., and is looking
+for a way to get out.50 Christian Roesler
+
+c) the dream ego wants to move, travel etc. but has no means to do so, e.g. it
+misses the train.
+d) the dream ego attempts to move and has some means of transportation but
+cannot control the movement, e.g. it cannot steer a car.
+e) the dream ego is moving but the way is blocked or the means of transport
+breaks down or crashes and movement cannot be continued.
+f) the dream ego is moving, making use of some means of transportation but it
+is going the wrong way, is in the wrong train or bus, or is not authorized touse it (e.g. has no ticket) and therefore cannot continue the journey.
+g) in the positive form, the dream ego succeeds in moving towards and
+reaching the desired destination.
+Pattern 5: Social interaction dream
+The dream ego is occupied with making contact or communicating with
+another person or ﬁgure in the dream. The dream ego wants to get in contact
+with another person, or is in communication and attempts to communicatesomething to the other person, or is more generally occupied with creating adesired contact with the other person which can include sexual contact. This
+dream pattern can be differentiated depending on the dream ego ’s activity and
+how successful it is in reaching its desired contact.
+a) the dream ego wants to get into contact but is ignored by others.
+b) the dream ego is criticized, devalued or made ridiculous by others and feels
+shame.
+c) the dream ego is successful in creating the desired contact.
+d) a special case: the dream ego is aggressive towards others (even kills others)
+which expresses the will of the dream ego to be separated and autonomous.
+There is a strong correlation between dream content and repetitive patterns in
+dream series on the one side and the dreamer ’s personality structure and
+psychological problems on the other. Additionally, changes in the course ofpsychotherapy are paralleled by a transformation in the dream patterns of the
+patient. The ﬁve patterns detected can be interpreted psychologically as an
+expression of the capacity of the dreamer ’s ego, on different levels, to cope
+with and/or control emotions, motivations and complexes. The extent ofagency of the dream ego is equivalent to that which psychoanalysis calls egostrength or maturity of the personality, as well as the degree of integration of
+ego and other parts of the psyche into the whole of the personality and the
+capacity of ego functioning.
+Patterns of change in the structure of dreams over the course of therapy
+In this study we not only found typical patterns in the structure of the dreams
+but also across the whole series of dreams. A general ﬁnding was that in
+those cases where the psychotherapeutic intervention was successful such thatJungian theory of dreaming and contemporary dream research 51
+
+there was an improvement in symptoms, psychological well-being, regulation of
+emotion and, from a psychoanalytic point of view, a gain in psychologicalstructure and ego strength, we found a typical pattern of transformation inthe structure of the dreams. Typically, the ﬁrst half of the psychotherapeutic
+process was dominated by a repetitive pattern in the dreams, which was
+connected with the psychological problems of the dreamer, in the sense as
+described above. Generally, in the middle of the dream series there appears adream or dream symbol which marks a change in the pattern (see moredetails below). The second half of the dream series is then typicallycharacterized by a change in the repetitive pattern:
+In Pattern 2(the dream ego is threatened), the dream ego changes its reaction
+to the threat. Instead of escaping, it confronts the threatening ﬁgures, ﬁghts
+actively, ﬁnds constructive strategies to cope with the threat and, towards the
+end of the dream series, succeeds in overcoming the threat.
+Example: In case 7, the dream ego in the ﬁrst half of the series is threatened by
+water in the form of giant waves, ﬂooding etc. and usually drowns in the ﬂood.
+In the second half of the series, however, the dream ego more and more succeedsin moving to a safe place on dry land. Furthermore, a transformative patternemerges in which the dream ego realizes that the seemingly threatening ﬁgures
+are not as dangerous and even makes friends with these ﬁgures.
+Typical examples of the second transformative pattern are seen in cases 5and
+6: in case 5, in the ﬁrst half of the series, the dream ego is threatened by snakes.
+Then in the midst of the dream series, a golden snake appears which is notdangerous. In the next dream the threatening ﬁgure changes into a
+salamander, then into a dark man. In case 6, the dream ego in the ﬁrst half of
+the series is chased by dogs and tries to escape, then in the midst of the seriesthere appear helpless and wounded dogs which need the dream ego ’s support
+but the dream ego reacts with disgust. Finally, the dream ego ﬁnds a helpless
+baby which needs care and support.
+To summarize, in the dream series dominated by Pattern 2, the threatening
+ﬁgures tend to change from natural disasters or threatening wild animals to
+less dangerous animals and then into human beings. A similar pattern oftransformation in the series of dreams can be found for those cases which are
+dominated by Patterns 3and4.
+In Pattern 3(performance requirement), the ﬁrst half of the series is typically
+dominated by the dream ego failing to ful ﬁl the required task. This is seen in
+cases where the dream ego is repeatedly confronted with an examination, isnot prepared, is too late or even forgets about the examination, thereby fails
+and escapes etc. Change in this pattern is characterized typically by the
+disappearance of examination dreams in the second half of the series.
+Pattern 4(mobility): typically, in the ﬁrst half of the series, the dream ego is
+not able to reach the desired aim, is on the wrong bus or train or has no
+ticket etc., the road is blocked, or the dream ego is not capable of controlling
+the car. In some cases, the dream ego is even walled-in and not able to escape.52 Christian Roesler
+
+In the second half of the series this typically changes into the dream ego
+succeeding in reaching the desired aim and controlling the means oftransportation.
+Pattern 5(social interaction): the cases dominated by this pattern are usually
+characterized by failed attempts (or passivity) of the dream ego to get into a
+desired contact or communication with others in the ﬁrst half of the series –
+the dream ego is ignored by others, others forget about the ego ’s birthday, or
+the dream ego is even criticized and devalued by others. Towards the end ofthe dream series, the dream ego is more and more capable of creatingsatisfying interactions with others or it experiences care and support from
+others. In those cases with successful therapeutic change, the second half of
+their dream series is dominated more and more by Pattern 5, that is, the
+dream ego becomes occupied with creating a desired social interaction. Andthis occurs after the dream ego has succeeded in overcoming a repetitive
+negative pattern of being threatened or having failed mobility or negative
+examination dreams.
+These transformative patterns were only found in cases where the therapists
+reported improvement on the symptom level as well as positive changes inpersonality structure. By contrast, there are two cases in the sample where the
+therapists delivered dream series to the researchers even though the therapy
+was not yet completed (and this information was not given to theinterpreters). In these cases, repetitive patterns can also be found but with nochange in the repetitive pattern in the way described above: e.g. the dreamego in most of the dreams is in a movement, usually by public transport but
+fails again and again to reach the desired aim because has it no ticket, or the
+train or tram breaks down etc.
+These transformative patterns in the dream series are interpreted from a
+psychodynamic perspective and are seen as speaking to the fact that an initially
+weak ego structure, which fails to regulate and integrate threatening emotions,
+impulses and complexes, gains in ego strength over the course of the therapyand increasingly succeeds in coping with initially suppressed or split-off partsof the psyche and integrating these into constructive interactions with others.As a result of such gains in ego strength, the dream ego is increasingly capable
+of executing willpower, conducting its plans, reaching aims and expressing its
+needs in social interactions. This interpretation is supported by the ﬁndings
+from the two cases where there is no therapeutic change and where there is alsono transformation of the repetitive dream pattern.
+Dream patterns and symbols are connected with psychological problems of the
+dreamer
+As a result of our study we not only found a clear correlation between
+therapeutic change and a transformation of patterns in the dream series, butJungian theory of dreaming and contemporary dream research 53
+
+also a clear connection between the patterns that dominate the dream series (or
+at least the ﬁrst half of the series) on the one hand and the psychological
+problems and the personality structure of the dreamer on the other. The ﬁve
+patterns can be interpreted psychologically as imaging the capacity of the egoto cope with and/or control emotions, motivations and complexes (as
+unintegrated parts of the psyche). The extent of agency of the dream ego is
+equivalent to that which in psychoanalysis is called ego strength or maturityof the personality, that is, the degree of integration of the ego and other partsof the psyche into the whole of the personality, thus enabling positive egofunctioning.
+There is only one case in the sample in which Pattern 1(no dream ego
+present) is found in its full form. In the ﬁrstﬁve dreams of the series, this
+dreamer just observes a scene as if watching a movie. This case is a Japanesemale student, 18years of age, who was treated because of severe school
+refusal over several years. The patient had retreated into total passivity and
+several attempts of psychotherapy, including in an inpatient setting, had failedto change the situation. This storyline in his dreams can be interpreted as animaging of a deeply regressed personality structure and lack of a clearidentity, where ego strength is at a very low level. There is an interesting
+parallel to another case, again a male student 18years of age with the
+diagnosis of school refusal and where ego strength and identity structure areat a comparably low level. In this latter case, in several of his dreams there isa dream ego but it is hovering above the actual happenings in the dream anddoes not participate or is not active in any way.
+Pattern 2(the dream ego is threatened) is found in those cases diagnosed with a
+narcissistic disorder, connected with a very weak ego structure, where there is anunclear personal identity or blocked identity development and low self-esteem.Often such patients have developed a compensatory ‘false self ’whilst splitting-
+off unaccepted parts of their psyche. Dream images of an injury or damage to
+the dream ego, the dream ego being murdered or found as a dead corpse seemto be connected on the psychological level with more severe cases of low self-esteem, a ‘narcissistic wound ’or even traumatization. From a psychodynamic
+point of view, such motifs in the dreams can be interpreted as a weak ego
+struggling with overwhelming forces derived from split-off emotions, impulses
+and complexes, as well as devaluing introjects that continually threaten thefunctioning of ego consciousness. Development in psychotherapy –and in the
+dreams –is characterized by a growth in ego strength, which becomes more
+and more capable of coping with the threatening parts of the psyche and
+accepting them as integral parts of the personality.
+Pattern 3, especially examination dreams, and Pattern 4, where the dream
+ego attempts to move in a desired direction, is found to occur in those caseswith a more stable ego structure (as diagnosed by the therapist), but where
+the patient has problems with making decisions and taking progressive steps
+in life, such as completing exams and deciding on a professional career.54 Christian Roesler
+
+Pattern 5, where the dream ego is involved in social interactions,
+characterizes those cases where a stable ego is diagnosed by the therapist butwhere the patient struggles with neurotic problems around interpersonalrelationships, such as ﬁnding an intimate partner and creating a satisfying,
+intimate and erotic relationship. This pattern can be interpreted as imaging a
+more mature personality structure, which is not so much struggling for
+integrity of the ego but rather more with interpersonal relationships. Thisinterpretation is supported by the ﬁnding that in positively developing
+psychotherapies/dream series, often a repetitive pattern on a lower level isovercome and replaced by dreams following Pattern 5in the second half of
+the therapy.
+It is also found in a number of cases that a dominating symbol, which appears
+repeatedly as part of a repetitive pattern, usually of Pattern 2(where the dream
+ego is threatened by this symbol), is strongly connected with the psychological
+situation or problem of the dreamer, e.g. in one case, the female dreamer is
+repeatedly threatened by snakes. In this case, the therapist diagnosed a strongtension in the personality between a very moralistic superego, on the onehand, and very lively erotic and sexual desires, on the other. The snake canclearly be interpreted as a sexual, phallic symbol, which appears threatening
+to an ego under the pressure of the moralistic superego. But there is also clear
+evidence from the dreams in this study that the meaning of a symbol can betotally different in other cases; e.g. the snake in case 8has the role of a helper.
+In the case described above, the threatening dogs are symbolicallysummarizing the unresolved problems of the dreamer concerning violence,
+sadism, sexual obsessions and a deeply wounded self-esteem. In summary,
+symbols appearing repeatedly in dream series can often be interpreted assymbolic images for parts of the psyche, its impulses and complexes, whichare not yet integrated into the personality as a whole and which therefore
+appear threatening to ego integrity.
+Transformative dreams
+In those cases which were considered as successful therapies from the viewpoint
+of the therapist, that is, with improvement or even fundamental changes in the
+personality structure of the patient, certain changes in the dream stories
+coincided with positive shifts in the therapy. Usually such transformativedreams were found in the middle of the dream series following a series ofdreams with a repetitive pattern, e.g. threat and escape imagery which was
+not continued after the transformative dream. These transformative dreams
+stand out as they show a great variety of images and structures and areusually experienced with positive emotions in the dreamer.
+Nevertheless, a similar motif was found in about half of the cases who had
+transformative dreams: a baby or young child, which needed help and
+support, played a major role in these dreams. The dream ego was asked toJungian theory of dreaming and contemporary dream research 55
+
+care for and give support to the child but had initial dif ﬁculties in turning
+towards and taking appropriate care of the child (see case example above).This motif is interesting insofar as Jung pointed out that the archetype of thechild is connected with transformation in psychotherapeutic processes (Jung1981 ) and, further, a number of models of psychotherapy focus on
+supporting the patient to turn towards and take care of his or her ‘inner
+wounded child ’. Other motifs in these transformative dreams included: the
+appearance of helpers who support the dream ego in coping with threateningﬁgures; the dream ego succeeding in working its way through narrow tubes
+or tunnels and the dream ego celebrating freedom with a dance.
+Discussion
+As a result of our ﬁndings we form this hypothesis: the relationship between the
+dream ego and threatening ﬁgures, and the reaction of the dream ego to the
+threat, is imaging the relationship between actual ego strength and
+unintegrated or con ﬂicted parts of the psyche, unconscious and repressed
+needs, motivations and complexes. The special form the threatening ﬁgure
+takes in the dream can be seen as symbolizing the psychological problem, thecomplex or repressed impulse with which the dreamer is struggling, especially
+if the dream pattern is repetitive. Patients whose dreams are shaped mainly by
+the threat/escape pattern, usually struggle with structural problems around anunstable ego and personality with unclear boundaries, whereas patients withdreams of mobility and interpersonal relationships seem to have more
+integrated personalities and higher ego strength and are preoccupied with
+more neurotic and interpersonal problems.
+We would also hypothesize that there is a typical change in dream patterns
+over the course of successful therapies. Typically, the ﬁrst half of the
+psychotherapeutic process was dominated by a repetitive pattern in the
+dreams, which was connected with the psychological problems of the
+dreamer. Generally, in the middle of the dream series, there appears a dreamor dream symbol which marks a change in the pattern. The second half of thedream series is then typically characterized by a change in the repetitivepattern: dreams move from Patterns 1,2and3in the ﬁrst half of a successful
+therapy process, where there are failed attempts by the dream ego to move
+and create relationships in a desirable way, to Patterns 4and 5where
+successful activities and control by the dream ego are seen.
+These transformative patterns in the dream series are interpreted from a
+psychodynamic perspective and are seen as speaking to the fact that an
+initially weak ego structure, which fails to regulate and integrate threateningemotions, impulses and complexes, gains in ego strength over the course ofthe therapy and increasingly succeeds in coping with initially suppressed orsplit off parts of the psyche and integrating these into constructive
+interactions with others (see also ﬁg.1). As a result of such gains in ego56 Christian Roesler
+
+strength, the dream ego is capable of increasingly executing willpower,
+conducting its plans, reaching aims and expressing its needs in socialinteractions. This interpretation is supported by the ﬁndings from two cases
+where there is no therapeutic change and where there is also notransformation of the repetitive dream pattern.
+Since these ﬁndings are based on cases from Jungian psychotherapies, we
+attempted to test the hypothesis with a classical Freudian case, the so-calledspecimen case Amalia X. This is a Freudian psychoanalysis of more than 500
+sessions, which was fully documented on video and was the subject of more
+than 100 scienti ﬁc investigations (Kächele 2012 ; Kächele et al. 1999 ,2006 ).
+This case included 93dreams which were discussed over the course of
+therapy. As it is considered to be a very successful therapy, we assumed thatwe would ﬁnd a movement from patterns 1and2to patterns 4and5over
+the course of therapy. This hypothesis could be empirically con ﬁrmed.
+Theﬁndings of this study also support the hypothesis that dreams can be
+understood as an image of the current situation of the dreamer ’s psyche as a
+whole, including aspects and processes which are unconscious and notaccessible to waking life consciousness. The ﬁndings of this study show no
+evidence of a process of censorship in the sense of Freud. Even though
+psychological problems and the state of ego integrity of the dreamer were
+symbolized in the dreams in the form of images as well as in the form ofpatterns, no distortion could be found. Instead, the manifest content of thedream was clearly picturing the psychological situation of the dreamer, in
+most cases even dramatically. Our ﬁndings also refute the hypothesis of wish
+fulﬁlment of dreams. Instead, most of the dreams, especially in the ﬁrst half ofFigure 1. Changes in dream patterns over the course of therapy in connection with
+improvements in ego strength [Colour ﬁgure can be viewed at wileyonlinelibrary.com]Jungian theory of dreaming and contemporary dream research 57
+
+the psychotherapy process, were putting the strongest fears of the dreamer into
+clear images.
+Insofar as the extent of ego functioning and the psychological problems of the
+dreamers are mirrored in the dream patterns and symbols, these ﬁndings
+support the continuity hypothesis (Domhoff 2017 ).
+The Jungian view of dreams could also provide a synthesis for the debate
+around continuity versus discontinuity of dream content and waking lifeexperience. As Hobson and Schredl ( 2011 ), in their discussion of the
+continuity hypothesis point out, dreams actually contain elements of wakinglife on a thematic level but this does not explain the occurrence of elements in
+dreams which dreamers have never experienced in their waking life. As they
+say, ‘This raises the intriguing question: If dreaming is not entirely derived
+from waking experience, then just what is the source of the anomalouscontent and what is its function? ’(p.3). Hoss ( 2011 ) in his commentary on
+the debate, argues, following Jung, that the distortions of waking content are
+not misrepresentations but are rather the ‘unconscious aspect ’of the waking
+event expressed in the dream not as a rational thought but as a symbolic image.
+Based on my own ﬁndings and those from earlier studies, I would say that
+there is no real evidence for a compensating activity in dreams, as Jung
+claims. There is more evidence for Jung ’sﬁrst theory, that the dream presents
+a more holistic picture of the total situation of the psyche, includingunconscious aspects. In this sense, the function of dreams could be called notso much compensating, but more of completing the picture by adding aspectsthat are not accessible for waking life consciousness. Of course, in a case
+where there is a strong split between the conscious attitude of the ego and
+unconscious processes, this can lead to a compensating effect. Nevertheless, inour study, the function of the dreams, e.g. in Pattern 2(threat and escape),
+seems more to be to present the full reality of the inner world to ego
+consciousness.
+In the future, we will try to strengthen our hypothesis regarding the ﬁve
+patterns and their connection with psychopathology and the development ofpsychotherapy. We will do so by analysing 150cases we received from the Jung
+Institute Stüttgart. We will also investigate the appearance of the child symbol
+and whether it has a transformative character for the whole series of dreams. I
+believe that this kind of research is capable of providing support for one of themost important concepts of analytical psychology, the theory of dreaming.
+References
+Aserinsky, E. & Kleitman, N. ( 1953 ). Regularly occurring periods of eye motility and
+concomitant phenomena during sleep. Science 118,273-74.
+Barrett, D. 1996 .‘Dreams in multiple personality ’.I n Trauma and Dreams, ed. D.
+Barrett. Cambridge, MA: Harvard University Press.
+Barrett, D. & McNamara, P. (eds.) ( 2007 ).The New Science of Dreaming. Vol. 2:
+Content, Recall and Personality Correlates . Westport: Praeger.58 Christian Roesler
+
+Boothe, B. ( 2002 ).Kodiermanual zur Erzählanalyse JAKOB. Berichte aus der Klinische
+Psychologie, Nr. 52. Zürich: Universität Zürich, Psychologisches Institut.
+Cartwright, R.D. ( 1977 ).Night Life. Explorations in Dreaming . Englewood Cliffs:
+Prentice-Hall.
+Domhoff, G.W. ( 2017 ). The invasion of the concept snatchers: The origins, distortions,
+and future of the continuity hypothesis. Dreaming ,27,1,14-39.
+Fisher, S. & Greenberg, R.P. ( 1977 ).The Scienti ﬁc Credibility of Freud ’s Theories and
+Therapy . Hassocks: Harvester Press.
+——— (1996 ).Freud Scienti ﬁcally Reappraised. Testing the Theories and Therapy . New
+York: Wiley.
+Fiss, H. ( 1995 ).‘The post-Freudian dream. A reconsideration of dream theory based on
+recent sleep laboratory ﬁndings ’.I nThe Signi ﬁcance of Dreams: Bridging Clinical and
+Extraclinical Research in Psychoanalysis , eds. P. Fonagy, H. Kächele, M. Leuzinger-
+Bohleber & D. Taylor. ( 2012 ). London: Karnac.
+Fonagy, P., Kächele, H. Leuzinger-Bohleber, M., & Taylor, D. (eds.) ( 2012 ). The
+Signiﬁcance of Dreams. Bridging Clinical and Extraclinical Research in
+Psychoanalysis. London: Karnac Books.
+Fosshage, J.L. ( 1987 ).‘New vistas on dream interpretation ’.I n Dreams in New
+Perspective. The Royal Road Revisited, ed. M. Glucksman. New York: Uman
+Sciences Press.
+——— (1997 ).‘The organizing functions of dreaming mentation ’.Contemporary
+Psychoanalysis, 33,429-58.
+Freud, S. ( 1900 ). The Interpretation of Dreams. SE4&5.
+Greenberg, R., Pearlman, C. ( 1978 ).‘If Freud only knew. A reconsideration
+of psychoanalytic dream theory ’.International Review of Psycho-Analysis, 5,71-75.
+Gülich, E. & Quasthoff, U. ( 1985 ).‘Narrative analysis ’.I nHandbook of Discourse
+Analysis, Vol. II: Dimensions of Discourse (pp. 169-197), ed. T.A. van Dijk.
+London: Academic Press.
+Hall, C.S., & Nordby, V.J. ( 1972 ).The Individual and His Dreams . New York: New
+American Library.
+Hall, C. S., & Van De Castle, R. L. ( 1966 ).The Content Analysis of Dreams . New York:
+Appleton-Century-Crofts.
+Hobson, J.A., & Schredl, M. ( 2011 ).‘The continuity and discontinuity between waking
+and dreaming: A dialogue between Michael Schredl and Allan Hobson concerning the
+adequacy and completeness of these notions ’.International Journal of Dream
+Research, 4,1,3-7.
+Hoss, R.J. ( 2011 ).‘The continuity and discontinuity between waking and dreaming from
+the perspective of an analytical psychological construct ’.International Journal of
+Dream Research, 4,2,81-83.
+Jung, C.G. ( 1971 ).Allgemeine Gesichtspunkte zur Psychologie des Traumes. GW Bd. 8.
+Olten: Walter.
+——— (1981 ).Die Archetypen und das Kollektive Unbewusste. GW Bd. 9/I. Olten:
+Walter.
+Kächele, H. ( 2012 ).‘Dreams as subject of psychoanalytical treatment research ’.I nThe
+Signi ﬁcance of Dreams. Bridging Clinical and Extraclinical Research in
+Psychoanalysis ; (pp. 89-100), eds. P. Fonagy, H. Kächele, M. Leuzinger-Bohleber &
+D. Taylor. London: Karnac.
+Kächele, H., Eberhardt, J., & Leuzinger-Bohleber, M. ( 1999 ). Expressed relationships,
+dream atmosphere and problem solving in Amalia ’s dreams —Dream series as
+process tool to investigate cognitive changes —A single case study . Psychoanalytic
+process research strategies II . Ulm: Ulmer Textbank.Jungian theory of dreaming and contemporary dream research 59
+
+Kächele, H., Leuzinger-Bohleber, M., Buchheim, A., & Thomä, H. ( 2006 ).‘Amalie X –
+ein deutscher Musterfall (Ebene I und Ebene II) ’.I n Psychoanalytische Therapie
+(pp.121-174). Springer, Berlin, Heidelberg.
+Levin, R. ( 1990 ).‘Psychoanalytic theories on the function of dreaming. A review of the
+empirical dream research ’.I nEmpirical studies of psychoanalytic theories, ed. J.M.
+Masling. Hillsdale NJ: Erlbaum.
+Moser, U. & v. Zeppelin, I. ( 1991 ).Cognitive-Affective Processes . Berlin, New York:
+Springer.
+Palombo, S.R. ( 1982 ).‘How the dream works. The role of dreaming in the
+psychotherapeutic process ’.I n Curative factors in dynamic psychotherapy
+(pp.223-242), ed. S. Slipp. New York: McGraw Hill.
+Popp, C., Luborsky, L. & Crits-Christoph, P. ( 1990 ).‘The parallel of the CCRT from
+therapy narratives with the CCRT from dreams ’.I n Understanding Transference.
+The CCRT method (pp. 158-172), eds. L. Luborsky & P. Crits-Christoph. New
+York: Basic Books.
+Propp, V. ( 1975 ).Morphologie des Märchens . Frankfurt a.M.: Surkamp.
+Roesler, C. ( 2018 a):‘Jungian dream interpretation and empirical dream research ’.I n
+Research in Analytical Psychology, ed. C. Roesler. London: Routledge.
+——— (2018 b): ‘Structural Dream Analysis: a narrative research method for
+investigating the meaning of dream series in analytical psychotherapies ’.
+International Journal of Dream Research ,11,1,21-29.
+Stevens, A. ( 1995 ).Private Myths: Dreams and Dreaming . London: Hamish Hamilton.
+Werner, C. & Langenmayr, A. ( 2005 ).Der Traum und die Fehlleistungen.
+Psychoanalyse und Empirie (Bd. 2). Göttingen: Vandenhoeck und Ruprecht.
+TRANSLATIONS OF ABSTRACT
+La méthode de recherche SDA, Analyse Structurelle des Rêves, est décrite. Elle permet
+une analyse systématique et objective du sens des rêves produits par des patients dansdes psychothérapies jungiennes. La méthode se concentre particulièrement sur larelation entre le moi du rêve et les autres personnages du rêve et le degré d ’activité du
+moi du rêve. Cinq principaux schémas de rêve furent identi ﬁés, qui rendent comptent
+de la majorité des rêves. La série de rêves des patients étaient dominée par un ou deuxschémas répétitifs, rattachés de près aux problèmes psychologiques des rêveurs. Deplus, il a pu être montré que les changements typiques dans les schémas de la série derêves étaient en correspondance avec le changement thérapeutique. Ces découvertessoutiennent la théorie jungienne des rêves comme fournissant une image holistique dela psyché du rêveur, qui inclue les aspects inconscients. Les implications pour lesdifférentes théories des rêves et de l ’interprétation des rêves sont discutées ainsi que les
+implications concernant l ’hypothèse de la continuité.
+Mots clés: rêves en psychothérapie, recherche empirique sur le rêve, théories
+psychanalytiques sur le rêve, schémas typiques des rêves, processus psychothérapeutique
+Es wird die Forschungsmethode der Structural Dream Analysis (SDA) beschrieben, die
+eine systematische und objektive Analyse der Traumbedeutung von Patienten in60 Christian Roesler
+
+Jungianischen Psychotherapien ermöglicht. Die Methode konzentriert sich insbesondere
+auf die Beziehung zwischen dem Traum-Ich und anderen Figuren im Traum sowie dasAusmaß der Aktivität des Traum-Ichs. Fünf Haupttraummuster wurden identi ﬁziert,
+die die Mehrheit der Träume bestimmten. Die Traumserien der Klienten wurden vonein oder zwei sich wiederholenden Mustern dominiert, die eng mit denpsychologischen Problemen der Träumer verbunden waren. Zusätzlich konntentypische Veränderungen in den Mustern der Traumserien identi ﬁziert werden, die mit
+therapeutischen Veränderungen korrespondierten. Diese Befunde stützen JungsTraumtheorie dahingehend, daß sie ein ganzheitliches Bild der Psyche des Träumersliefert, einschließlich unbewußter Aspekte. Die Implikationen für verschiedenepsychoanalytische Theorien des Traums und der Trauminterpretation werdendiskutiert, wie auch Implikationen für die Kontinuitätshypothese.
+Schlüsselwörter: Träume in der Psychotherapie, empirische Traumforschung,
+psychoanalytische Traumtheorien, typische Traummuster, Psychotherapieprozeß
+Viene descritto il metodo di ricerca Structural Dream Analysis (SDA) che consente
+un’analisi sistematica e obiettiva del signi ﬁcato dei sogni prodotti dai pazienti nelle
+psicoterapie junghiane. Il metodo si concentra soprattutto sulla relazione tra l ’Io
+onirico e altre ﬁgure nel sogno e la portata dell ’attività dell ’Io del sogno. Sono stati
+identi ﬁcati cinque principali pattern che rappresentano la maggior parte dei sogni. Le
+serie di sogni dei pazienti sono dominate da uno o due pattern ripetitivi, strettamentecollegati ai problemi psicologici dei sognatori. Inoltre, possono essere identi ﬁcati
+cambiamenti tipici nei pattern della serie di sogni che corrispondono al cambiamentoterapeutico. Queste scoperte supportano la teoria dei sogni di Jung in quantoforniscono un ’immagine olistica della psiche del sognatore, compresi gli aspetti
+inconsci. Vengono discusse le implicazioni per le diverse teorie psicoanalitiche delsogno e l ’interpretazione dei sogni, nonché le implicazioni per l ’ipotesi della continuità.
+Parole chiave: sogni in psicoterapia, ricerca empirica dei sogni, teorie psicoanalitiche dei
+sogni, pattern tipici dei sogni, processo psicoterapeutico
+В статье описан применяемый в исследованиях метод «структурный анализ
+сновидений »,который позволяет проводить систематический и объективный анализ
+смыслов сновидений ,которые снятся пациентам в процессе юнгианской
+психотерапии .Метод фокусируется в частности на отношенияхмежду сновидческим
+эгоидругимифигурамисновидениями ,атакженастепениактивностисновидческого
+эго .Были идентифицированы пять главных паттернов сновидения ,которые
+встречаютсявбольшинствесновидений .Всерийныхсновиденияхдоминировалиодин
+или два повторяющихся паттерна ,которые были тесно связаны с психологическими
+проблемами сновидца .Также было показано ,что типичные изменения в сюжетах
+серийных сновидений соответствовали терапевтическим изменениям .Данные
+результаты подтверждают теорию сновидений Юнга :психика сновидца целостна и
+включает разноообразные бессознательные аспекты .В статье обсуждаются
+практические применения различных психоаналитических теорий сновидений и ихJungian theory of dreaming and contemporary dream research 61
+
+интерпретации ,атакжевозможноеразвитиепредложенныхгипотез .
+Ключевые слова :сновидениявпсихотерапии ,эмпирическоеисследованиесновидений ,
+психоаналиические теории сновидений ,паттерны сновидений ,психотерапевтический
+процесс
+Se describe el método de investigación Análisis Estructural de los Sueños (Structural
+Dream Análisis/SDA), el cual permite un análisis sistemático y objetivo de los sueñosproducidos por pacientes en psicoterapias Junguianas. El método se focalizaespecialmente en la relación entre el ego soñante y otras ﬁguras en el sueño, y el
+espectro de actividad del ego soñante. Se han identi ﬁcado cinco patrones mayores, los
+cuales responden para la mayoría de los sueños. La serie de sueños del cliente estabandominadas por uno o dos patrones repetitivos, los cuales estaban conectadosíntimamente a los problemas psicológicos de los soñantes. A su vez, cambios típicos enlos patrones de las series de sueños pudieron identi ﬁcarse en correspondencia a
+cambios terapéuticos. Estos hallazgos fundamentan la teoría de los sueños de Jung encuanto a proveer una imagen holística de la psique del soñante que incluye losaspectos inconscientes. Se discuten implicancias para diferentes teorías psicoanalíticasacerca de los sueños y de la interpretación de los sueños, así como también
+implicancias para la continuidad de dicha hipótesis.
+Palabras clave: sueños en psicoterapia, investigación empírica de los sueños, teorías
+psicoanalíticas de los sueños, patrones típicos de los sueños, proceso psicoterapéutico
+结构性梦的分析
+文章描述了结构性梦的分析的方法(SDA),这一方法是在荣格流派的心理治疗背景
+下,对病人的梦进行一种系统和客观的分析,从而理解梦的含义。这
+一方法特别关注
+梦中自我与他者的关系,以及梦中自我的活动范围。其中分别有五种主要的梦的模式,
+它们涵盖了大多数梦的特点。病人梦的系列会被一到两个重复的模式占据,它们与做
+梦者心理问题密切相关。此外,也识别了梦系列模式中典型的变化 ,它们与治疗带来
+的转变有关。这些发现支持了荣格梦的理论,这一理论认为,梦提供的是做梦者心灵
+的完整性意象,其中包含了无意识的许多方面。文章还讨论了这些研究对于其它心理
+治疗理论中关于梦和梦的解释方面的意义,也讨论了未来研究的假设。
+关键词:心理治疗中的梦,实证的梦研究,心理分析梦理论,典型梦模式,心理治疗过
+程62 Christian Roesler
+
