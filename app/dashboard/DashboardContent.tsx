@@ -1,45 +1,56 @@
 'use client';
-import React, { useState } from 'react';
+import { useState } from 'react';
 
-const DashboardContent: React.FC = () => {
-  const [dream, setDream] = useState<string>('');
-  const [dreamsList, setDreamsList] = useState<string[]>([]);
+function DashboardContent() {
+  const [dream, setDream] = useState('');
+  const [interpretation, setInterpretation] = useState('');
+  const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault(); // Prevents the default form submission behavior
+  async function fetchDreamInterpretation(dreamDescription: string) {
+    setLoading(true);
+    try {
+      const response = await fetch('/api/interpretDream', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ dreamDescription }),
+      });
 
-    if (dream.trim()) {
-      setDreamsList([...dreamsList, dream]); // Adds the new dream to the dreams list
-      setDream(''); // Resets the dream input field
+      if (!response.ok) throw new Error('Failed to fetch interpretation');
+
+      const data = await response.json();
+      setInterpretation(data.interpretation);
+    } catch (error) {
+      console.error('Error:', error);
+      setError('Failed to fetch interpretation');
+    } finally {
+      setLoading(false);
     }
+  }
+
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (!dream.trim()) return;
+    await fetchDreamInterpretation(dream);
+    setDream(''); // Optionally reset the dream input after submission
   };
 
   return (
-    <div className="w-4/5 p-4 bg-purple-100 rounded-lg flex flex-col h-screen">
-      {/* Render the list of dreams as chat messages */}
-      <div className="overflow-auto mb-4">
-        {dreamsList.map((userDream, index) => (
-          <div key={index} className="bg-white p-2 mb-2 rounded shadow">
-            {userDream}
-          </div>
-        ))}
-      </div>
-      <form onSubmit={handleSubmit} className="mt-auto relative">
+    <div>
+      <form onSubmit={handleSubmit}>
         <textarea
-          className="w-full p-2 border rounded-md border-gray-300 focus:outline-none focus:ring-2 focus:ring-aqua-400 focus:border-transparent"
-          placeholder="Type your dream here..."
           value={dream}
           onChange={(e) => setDream(e.target.value)}
+          placeholder="Type your dream here..."
         />
-        <button
-          type="submit"
-          className="absolute bottom-0 right-0 mb-2 mr-2 bg-aqua-100 text-white p-1 px-2 rounded hover:bg-blue-600 text-sm"
-        >
-          Submit
+        <button type="submit" disabled={loading}>
+          {loading ? 'Loading...' : 'Interpret Dream'}
         </button>
       </form>
+      {error && <p>{error}</p>}
+      {interpretation && <p>Interpretation: {interpretation}</p>}
     </div>
   );
-};
+}
 
 export default DashboardContent;
